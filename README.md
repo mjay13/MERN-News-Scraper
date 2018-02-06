@@ -6,7 +6,7 @@ This is a web app that lets users view and leave comments on the latest news uti
 - - -
 
 ### Deployment
-This application is deployed to Heroku, view [here] (https://devcenter.heroku.com/articles/account-verification). 
+This application is deployed to Heroku, view: https://mern-news-scraper.herokuapp.com/. 
 
 - - -
 
